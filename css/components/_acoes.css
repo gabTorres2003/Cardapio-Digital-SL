@@ -1,0 +1,89 @@
+.status-pedido-container {
+    background-color: var(--dark-blue);
+    color: var(--text-light);
+    padding: 1rem 1.5rem;
+    border-radius: var(--border-radius);
+    margin: 0 auto 2rem auto;
+    max-width: 600px;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border-left: 5px solid var(--accent-amber);
+}
+
+.status-pedido-container.escondido {
+    display: none;
+}
+
+.status-pedido-container h3 {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    opacity: 0.8;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+#status-do-pedido {
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.menu-acoes-mesa {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    z-index: 1000;
+}
+.btn-acao-mesa {
+    padding: 0.75rem;
+    background-color: var(--dark-blue);
+    color: var(--text-light);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+.btn-acao-mesa:hover {
+    background-color: var(--primary-orange);
+    border-color: var(--primary-orange);
+    transform: scale(1.05);
+}
+
+.alertas-container {
+    padding: 0 1rem 1rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+.alerta-card {
+    background-color: var(--accent-amber);
+    color: var(--text-dark);
+    padding: 1rem;
+    border-radius: var(--border-radius);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    font-weight: 500;
+    animation: fadeIn 0.5s ease;
+}
+.alerta-card__icone {
+    font-size: 2rem;
+}
+.alerta-card strong {
+    font-size: 1.2rem;
+}
+
+.btn-atendido {
+    padding: 0.5rem 1rem !important;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-10px); }
+    to { opacity: 1; transform: translateY(0); }
+}

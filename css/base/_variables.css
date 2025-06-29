@@ -1,0 +1,13 @@
+:root {
+    --primary-orange: #F25C05;
+    --dark-blue: #032038;     
+    --text-dark: #1a1a1a;     
+    --text-light: #FFFFFF;     
+    --background-light: #F7F7F7;
+    --background-concrete: #EAEAEA;
+    --accent-amber: #FFB703;
+
+    --font-primary: 'Poppins', sans-serif;
+    --border-radius: 8px;
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,30 @@
+.mesa-ocupada-aviso {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 4rem 2rem;
+    margin: 2rem auto;
+    max-width: 800px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow);
+}
+
+.mesa-ocupada-aviso h1 {
+    font-size: 2.5rem;
+    color: var(--primary-orange);
+    margin-bottom: 1rem;
+}
+
+.mesa-ocupada-aviso p {
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.8;
+}
+
+.mesa-ocupada-aviso.escondido {
+    display: none;
+}

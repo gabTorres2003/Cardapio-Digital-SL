@@ -1,0 +1,95 @@
+id,nome,categoria,preco,descricao,imagem
+1,Hambúrguer,Hambúrgueres com Carne Caseira,14.0,"Pão, Carne 70g, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+2,Eggs Burguer,Hambúrgueres com Carne Caseira,15.0,"Pão, Carne 70g, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+3,Eggs Bacon,Hambúrgueres com Carne Caseira,18.0,"Pão, Carne 70g, Ovo, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+4,X-Burguer,Hambúrgueres com Carne Caseira,16.0,"Pão, Carne 70g, Queijo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+5,X-Eggs-Burguer,Hambúrgueres com Carne Caseira,17.0,"Pão, Carne 70g, Queijo, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+6,X-Bacon-Burguer,Hambúrgueres com Carne Caseira,18.0,"Pão, Carne 70g, Queijo, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+7,X-Pres-Burguer,Hambúrgueres com Carne Caseira,16.0,"Pão, Carne 70g, Queijo, Presunto, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+8,X-Pres-Eggs-Burguer,Hambúrgueres com Carne Caseira,17.0,"Pão, Carne 70g, Queijo, Ovo, Presunto, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+9,X-Pres-Bacon-Burguer,Hambúrgueres com Carne Caseira,19.0,"Pão, Carne 70g, Queijo, Presunto, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+10,Burguesão,Hambúrgueres com Carne Caseira,20.0,"Pão, Carne 70g, Ovo, Queijo, Presunto, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+11,Galis Lanches,Hambúrgueres com Carne Caseira,14.0,"Pão, Frango, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+12,Galis Eggs,Hambúrgueres com Carne Caseira,17.0,"Pão, Frango, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+13,X-Galis-Eggs,Hambúrgueres com Carne Caseira,17.0,"Pão, Frango, Queijo, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+14,X-Galis-Bacon,Hambúrgueres com Carne Caseira,17.0,"Pão, Frango, Queijo, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+15,Galis Burguer,Hambúrgueres com Carne Caseira,17.0,"Pão, Carne 70g, Frango, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+16,Galis-Burguer com Ovo,Hambúrgueres com Carne Caseira,18.0,"Pão, Carne 70g, Frango, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+17,Galis Bacon-Burguer,Hambúrgueres com Carne Caseira,18.0,"Pão, Carne 70g, Frango, Bacon, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+18,X-Galis-Eggs-Burguer,Hambúrgueres com Carne Caseira,18.0,"Pão, Carne 70g, Frango, Queijo, Ovo, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+19,X-Pres-Galis-Burguer,Hambúrgueres com Carne Caseira,19.0,"Pão, Carne 70g, Frango, Queijo, Presunto, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+20,Brandem Burguer,Hambúrgueres com Carne Caseira,20.0,"Pão, Carne 70g, Frango, Queijo, Ovo, Presunto, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+21,Mata Fome,Hambúrgueres com Carne Caseira,23.0,"Pão, Carne 70g, Frango, Queijo, Ovo, Bacon, Presunto, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+22,Sablina Lanches,Hambúrgueres com Carne Caseira,40.0,"Pão, 2 Carnes 70g, 2 Frangos, 2 Queijos, 2 Ovos, 2 Bacons, 2 Presuntos, Milho, Ervilha, Salada e Batata",assets/images/hamburguer.jpg
+23,Kids,Hambúrgueres Gourmet Batata Frita Grátis,18.0,"Hambúrguer 120g, Queijo Mussarela",assets/images/hamburguer-gourmet.jpg
+24,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,20.0,"Hambúrguer 120g, Queijo Cheddar, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+25,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,22.0,"Hambúrguer 120g, Queijo Cheddar, Ovo, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+26,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,24.0,"Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+27,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,26.0,"Hambúrguer 120g, Queijo Cheddar, Ovo, Bacon, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+28,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,32.0,"Hambúrguer 120g, Queijo Cheddar, Calabresa, Ovo, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+29,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,29.0,"Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Bacon, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+30,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,27.0,"Frango 120g, Queijo Cheddar, Presunto, Bacon, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+31,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,23.0,"Frango 120g, Queijo Cheddar, Ovo, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+32,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,38.0,"2 Hambúrgueres 120g, Presunto, 2 Queijos Cheddar, Calabresa, Bacon, 2 Ovos, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+33,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,34.0,"Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Bacon, Frango, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+34,Gourmet,Hambúrgueres Gourmet Batata Frita Grátis,25.0,"Hambúrguer 120g, Queijo Cheddar, Calabresa, Molho Billy Jack, Cebola Roxa e Salada",assets/images/hamburguer-gourmet.jpg
+35,Saquinho de Batata,Porção de Batata,7.0,"",assets/images/porcao-batata.jpg
+36,Batata na Hamburgueira,Porção de Batata,18.0,"",assets/images/porcao-batata.jpg
+37,Porção de Batata,Porção de Batata,23.0,"",assets/images/porcao-batata.jpg
+38,Batata com Cheddar e Bacon,Porção de Batata,27.0,"",assets/images/porcao-batata.jpg
+39,Pizza Grande,Pizzas,40.0,"8 Fatias - Para colocar dois sabores, clique em um sabor e depois em outro",assets/images/pizza.jpg
+40,Pizza Maracanã,Pizzas,45.0,"12 Fatias - Para colocar dois sabores, clique em um sabor e depois em outro",assets/images/pizza.jpg
+41,Mata Fome + Guaravita,Promoções,24.0,"",assets/images/promocao.jpg
+42,Pizza 12 Fatias + Guaraná 1,5,Promoções,67.0,SOMENTE UM SABOR POR PIZZA!,assets/images/promocao.jpg
+43,Pizza 8 Fatias + Guaraná 1L,Promoções,62.0,SOMENTE UM SABOR POR PIZZA!,assets/images/promocao.jpg
+44,2 273 + 2 Cocas em Lata,Promoções,65.0,"",assets/images/promocao.jpg
+45,Árabe Baba Frango Especial,Lanches Árabes,20.0,"Pão Árabe, Pasta de Alho, Repolho, Frango e Batata Palha",assets/images/lanche-arabe.jpg
+46,Árabe Nacional,Lanches Árabes,22.0,"Pão Árabe, Frango, Queijo Mussarela, Presunto, Ovo e Salada",assets/images/lanche-arabe.jpg
+47,Árabe X-Calabresa,Lanches Árabes,20.0,"Pão Árabe, Calabresa, Carne 70g, Queijo Mussarela, Presunto e Salada",assets/images/lanche-arabe.jpg
+48,Árabe Kabab,Lanches Árabes,20.0,"Pão Árabe, Carne de Cafta, Cebola, Salsa e Tomate",assets/images/lanche-arabe.jpg
+49,Árabe Sujek,Lanches Árabes,20.0,"Pão Árabe, Pasta de Alho, Carne de Cafta e Tomate",assets/images/lanche-arabe.jpg
+50,Árabe Brasileirinho,Lanches Árabes,21.0,"Pão Árabe, Pasta de Alho, Carne de Cafta, Queijo Mussarela, Presunto e Salada",assets/images/lanche-arabe.jpg
+51,Árabe Chaurma,Lanches Árabes,22.0,"Pão Árabe, Pasta de Alho, Carne de Churrasco e Tomate",assets/images/lanche-arabe.jpg
+52,Árabe Beirute,Lanches Árabes,24.0,"Pão Árabe, Carne de Churrasco, Queijo Mussarela, Ovo, Cheddar e Salada",assets/images/lanche-arabe.jpg
+53,Árabe Queijo com Banana,Lanches Árabes,20.0,"Pão Árabe, Queijo, Banana e Canela",assets/images/lanche-arabe.jpg
+54,Árabe Gallis,Lanches Árabes,21.0,"Pão Árabe, Frango, Queijo Mussarela, Presunto, Cheddar e Salada",assets/images/lanche-arabe.jpg
+55,Árabe Canadense,Lanches Árabes,23.0,"Pão Árabe, Carne 70g, Frango, Ovo, Catupiry e Salada",assets/images/lanche-arabe.jpg
+56,Árabe Super Americano,Lanches Árabes,24.0,"Pão Árabe, Pasta de Alho, Carne 70g, Frango, Ovo, Queijo e Presunto",assets/images/lanche-arabe.jpg
+57,Árabe Mini Cheddar,Lanches Árabes,21.0,"Pão Árabe, Carne 70g, Ovo, Cheddar, Queijo Mussarela, Presunto e Salada",assets/images/lanche-arabe.jpg
+58,Misto Duplo,Mistos no Pão de Forma,13.0,"2 Pães Fatiados, Presunto e Queijo",assets/images/misto.jpg
+59,Misto Triplo,Mistos no Pão de Forma,15.0,"3 Pães Fatiados, Presunto e Queijo",assets/images/misto.jpg
+60,Maionese Adicional,Maionese Caseira,1.0,"",assets/images/maionese.jpg
+61,Guaravita,Bebidas,3.0,"",assets/images/bebida.jpg
+62,Kapo,Bebidas,4.0,Morango,assets/images/bebida.jpg
+63,Guaraviton,Bebidas,6.0,"",assets/images/bebida.jpg
+64,Água,Bebidas,3.0,"",assets/images/bebida.jpg
+65,Água com Gás,Bebidas,4.0,"",assets/images/bebida.jpg
+66,Coca Cola 1,5L,Bebidas,11.0,"",assets/images/bebida.jpg
+67,Coca Zero 1,5L,Bebidas,11.0,"",assets/images/bebida.jpg
+68,Guaraná 1,5L,Bebidas,11.0,"",assets/images/bebida.jpg
+69,Pepsi 1,5L,Bebidas,11.0,"",assets/images/bebida.jpg
+70,Fanta Uva 2L,Bebidas,13.0,"",assets/images/bebida.jpg
+71,Mineirinho 2L,Bebidas,13.0,"",assets.images/bebida.jpg
+72,H2O Comum 1,5,Bebidas,11.0,"",assets/images/bebida.jpg
+73,H2O Limoneto 1,5,Bebidas,11.0,"",assets/images/bebida.jpg
+74,Coca Cola 2L,Bebidas,13.0,"",assets/images/bebida.jpg
+75,Coca Cola Zero 2L,Bebidas,13.0,"",assets/images/bebida.jpg
+76,Água Tônica,Bebidas,7.0,"",assets/images/bebida.jpg
+77,Coca Cola 600ml,Bebidas,9.0,"",assets/images/bebida.jpg
+78,Coca Cola Zero 600ml,Bebidas,9.0,"",assets/images/bebida.jpg
+79,Guaraná 600ml,Bebidas,8.0,"",assets/images/bebida.jpg
+80,Guaraná Zero Lata,Bebidas,7.0,"",assets/images/bebida.jpg
+81,Pepsi Lata,Bebidas,7.0,"",assets/images/bebida.jpg
+82,Fanta Uva Lata,Bebidas,7.0,"",assets/images/bebida.jpg
+83,Fanta Laranja Lata,Bebidas,7.0,"",assets/images/bebida.jpg
+84,Pepsi 600ml,Bebidas,8.0,"",assets/images/bebida.jpg
+85,Fanta Laranja 600ml,Bebidas,8.0,"",assets/images/bebida.jpg
+86,Fanta Uva 600ml,Bebidas,8.0,"",assets/images/bebida.jpg
+87,H2O Comum,Bebidas,8.0,"",assets/images/bebida.jpg
+88,H2O Limoneto,Bebidas,8.0,"",assets/images/bebida.jpg
+89,Guaraná 1L,Bebidas,9.0,"",assets/images/bebida.jpg
+90,Pepsi 1L,Bebidas,9.0,"",assets/images/bebida.jpg
+91,Água 1,5L,Bebidas,5.0,"",assets/images/bebida.jpg
+92,Caribe,Doces,4.0,"",assets/images/doce.jpg
+93,Trident Melancia,Doces,3.0,"",assets/images/doce.jpg
+94,Trident Menta,Doces,3.0,"",assets/images/doce.jpg

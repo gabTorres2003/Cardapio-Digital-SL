@@ -1,0 +1,135 @@
+.carrinho-botao {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    width: 60px;
+    height: 60px;
+    background-color: var(--primary-orange);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    z-index: 1000;
+}
+
+.carrinho-icone {
+    font-size: 1.5rem;
+}
+
+.carrinho-contador {
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    background-color: var(--dark-blue);
+    color: white;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+
+.carrinho-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.carrinho-modal.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.carrinho-modal__content {
+    background-color: white;
+    padding: 2rem;
+    border-radius: var(--border-radius);
+    width: 90%;
+    max-width: 500px;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+}
+
+.carrinho-modal__fechar {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.carrinho-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--background-concrete);
+}
+
+.carrinho-item__info h4 {
+    margin-bottom: 0.25rem;
+}
+
+.carrinho-item__info p {
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.carrinho-item__actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.carrinho-item__actions button {
+    background-color: var(--dark-blue);
+    color: white;
+    border: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.carrinho-item__actions button.remover {
+    background-color: #ccc;
+    color: var(--text-dark);
+}
+
+.carrinho-modal__footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #ccc;
+    text-align: right;
+}
+
+.carrinho-modal__footer p {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.carrinho-vazio {
+    color: #666;
+    text-align: center;
+    padding: 2rem 0;
+}

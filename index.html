@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sablina Lanches - Cardápio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="header header-cover">
+      <div class="header-overlay"></div>
+      <img
+        src="assets/images/logo-sablina.png"
+        alt="Logo Sablina Lanches"
+        class="header__logo"
+      />
+    </header>
+
+    <main class="container">
+      <h1 class="main-title">Nosso Cardápio</h1>
+
+      <div
+        id="status-pedido-container"
+        class="status-pedido-container escondido"
+      >
+        <h3>Status do seu último pedido:</h3>
+        <p id="status-do-pedido">Buscando informações...</p>
+      </div>
+
+      <div class="mesa-ocupada-aviso escondido">
+        <h1>Mesa Ocupada</h1>
+        <p>Esta mesa já está com um atendimento em andamento.</p>
+        <p>Por favor, chame um de nossos atendentes se precisar de ajuda.</p>
+      </div>
+
+      <div id="categorias-container" class="categorias-container">
+      </div>
+      <div id="menu-container" class="menu-container">
+      </div>
+    </main>
+
+    <div id="carrinho-botao" class="carrinho-botao">
+      <span class="carrinho-icone">🛒</span>
+      <span id="carrinho-contador" class="carrinho-contador">0</span>
+    </div>
+
+    <div id="carrinho-modal" class="carrinho-modal">
+      <div class="carrinho-modal__content">
+        <button id="fechar-modal" class="carrinho-modal__fechar">
+          &times;
+        </button>
+        <h2>Sua Bandeja</h2>
+        <div id="carrinho-itens">
+          <p class="carrinho-vazio">Sua bandeja está vazia.</p>
+        </div>
+        <div class="carrinho-modal__footer">
+          <p>Total: <strong id="carrinho-total">R$ 0,00</strong></p>
+          <button id="enviar-pedido" class="btn btn-primary" disabled>
+            Enviar Pedido
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div class="menu-acoes-mesa">
+      <button id="btn-chamar-garcom" class="btn-acao-mesa">
+        🛎️ Chamar Garçom
+      </button>
+      <button id="btn-fechar-conta" class="btn-acao-mesa">
+        💵 Fechar a Conta
+      </button>
+    </div>
+
+    <script src="js/app.js" type="module"></script>
+  </body>
+</html>

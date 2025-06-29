@@ -1,0 +1,10 @@
+@import url('./base/_variables.css');
+@import url('./base/_base.css');
+
+@import url('./components/_header.css');
+@import url('./components/_botoes.css');
+@import url('./components/_card-lanche.css');
+@import url('./components/_carrinho.css');
+@import url('./components/_dashboard.css');
+@import url('./components/_acoes.css');
+@import url('./components/_avisos.css');

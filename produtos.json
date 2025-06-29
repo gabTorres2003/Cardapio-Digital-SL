@@ -1,0 +1,754 @@
+[
+    {
+        "id": 1,
+        "nome": "Hambúrguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 14.0,
+        "descricao": "Pão, Carne 70g, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Eggs Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 15.0,
+        "descricao": "Pão, Carne 70g, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Eggs Bacon",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 18.0,
+        "descricao": "Pão, Carne 70g, Ovo, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "X-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 16.0,
+        "descricao": "Pão, Carne 70g, Queijo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "X-Eggs-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Carne 70g, Queijo, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "X-Bacon-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 18.0,
+        "descricao": "Pão, Carne 70g, Queijo, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "X-Pres-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 16.0,
+        "descricao": "Pão, Carne 70g, Queijo, Presunto, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "X-Pres-Eggs-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Carne 70g, Queijo, Ovo, Presunto, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "X-Pres-Bacon-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 19.0,
+        "descricao": "Pão, Carne 70g, Queijo, Presunto, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Burguesão",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 20.0,
+        "descricao": "Pão, Carne 70g, Ovo, Queijo, Presunto, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Galis Lanches",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 14.0,
+        "descricao": "Pão, Frango, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 12,
+        "nome": "Galis Eggs",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Frango, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 13,
+        "nome": "X-Galis-Eggs",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Frango, Queijo, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "X-Galis-Bacon",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Frango, Queijo, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Galis Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 17.0,
+        "descricao": "Pão, Carne 70g, Frango, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Galis-Burguer com Ovo",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 18.0,
+        "descricao": "Pão, Carne 70g, Frango, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 17,
+        "nome": "Galis Bacon-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 18.0,
+        "descricao": "Pão, Carne 70g, Frango, Bacon, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 18,
+        "nome": "X-Galis-Eggs-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 18.0,
+        "descricao": "Pão, Carne 70g, Frango, Queijo, Ovo, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "X-Pres-Galis-Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 19.0,
+        "descricao": "Pão, Carne 70g, Frango, Queijo, Presunto, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 20,
+        "nome": "Brandem Burguer",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 20.0,
+        "descricao": "Pão, Carne 70g, Frango, Queijo, Ovo, Presunto, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 21,
+        "nome": "Mata Fome",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 23.0,
+        "descricao": "Pão, Carne 70g, Frango, Queijo, Ovo, Bacon, Presunto, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 22,
+        "nome": "Sablina Lanches",
+        "categoria": "Hambúrgueres com Carne Caseira",
+        "preco": 40.0,
+        "descricao": "Pão, 2 Carnes 70g, 2 Frangos, 2 Queijos, 2 Ovos, 2 Bacons, 2 Presuntos, Milho, Ervilha, Salada e Batata",
+        "imagem": "assets/images/hamburguer.jpg"
+    },
+    {
+        "id": 23,
+        "nome": "Kids",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 18.0,
+        "descricao": "Hambúrguer 120g, Queijo Mussarela",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 24,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 20.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 25,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 22.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Ovo, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 26,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 24.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 27,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 26.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Ovo, Bacon, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 28,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 32.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Calabresa, Ovo, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 29,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 29.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Bacon, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 30,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 27.0,
+        "descricao": "Frango 120g, Queijo Cheddar, Presunto, Bacon, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 31,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 23.0,
+        "descricao": "Frango 120g, Queijo Cheddar, Ovo, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 32,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 38.0,
+        "descricao": "2 Hambúrgueres 120g, Presunto, 2 Queijos Cheddar, Calabresa, Bacon, 2 Ovos, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 33,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 34.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Presunto, Ovo, Bacon, Frango, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 34,
+        "nome": "Gourmet",
+        "categoria": "Hambúrgueres Gourmet Batata Frita Grátis",
+        "preco": 25.0,
+        "descricao": "Hambúrguer 120g, Queijo Cheddar, Calabresa, Molho Billy Jack, Cebola Roxa e Salada",
+        "imagem": "assets/images/hamburguer-gourmet.jpg"
+    },
+    {
+        "id": 35,
+        "nome": "Saquinho de Batata",
+        "categoria": "Porção de Batata",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/saquinho-batata.jpg"
+    },
+    {
+        "id": 36,
+        "nome": "Batata na Hamburgueira",
+        "categoria": "Porção de Batata",
+        "preco": 18.0,
+        "descricao": "",
+        "imagem": "assets/images/porcao-batata.jpg"
+    },
+    {
+        "id": 37,
+        "nome": "Porção de Batata",
+        "categoria": "Porção de Batata",
+        "preco": 23.0,
+        "descricao": "",
+        "imagem": "assets/images/porcao-batata.jpg"
+    },
+    {
+        "id": 38,
+        "nome": "Batata com Cheddar e Bacon",
+        "categoria": "Porção de Batata",
+        "preco": 27.0,
+        "descricao": "",
+        "imagem": "assets/images/porcao-batata-cheddar.jpg"
+    },
+    {
+        "id": 39,
+        "nome": "Pizza Grande",
+        "categoria": "Pizzas",
+        "preco": 40.0,
+        "descricao": "8 Fatias - Para colocar dois sabores, clique em um sabor e depois em outro",
+        "imagem": "assets/images/pizza.jpg"
+    },
+    {
+        "id": 40,
+        "nome": "Pizza Maracanã",
+        "categoria": "Pizzas",
+        "preco": 45.0,
+        "descricao": "12 Fatias - Para colocar dois sabores, clique em um sabor e depois em outro",
+        "imagem": "assets/images/pizza.jpg"
+    },
+    {
+        "id": 41,
+        "nome": "Mata Fome + Guaravita",
+        "categoria": "Promoções",
+        "preco": 24.0,
+        "descricao": "",
+        "imagem": "assets/images/promocao.jpg"
+    },
+    {
+        "id": 42,
+        "nome": "Pizza 12 Fatias + Guaraná 1,5",
+        "categoria": "Promoções",
+        "preco": 67.0,
+        "descricao": "SOMENTE UM SABOR POR PIZZA!",
+        "imagem": "assets/images/promocao.jpg"
+    },
+    {
+        "id": 43,
+        "nome": "Pizza 8 Fatias + Guaraná 1L",
+        "categoria": "Promoções",
+        "preco": 62.0,
+        "descricao": "SOMENTE UM SABOR POR PIZZA!",
+        "imagem": "assets/images/promocao.jpg"
+    },
+    {
+        "id": 44,
+        "nome": "2 273 + 2 Cocas em Lata",
+        "categoria": "Promoções",
+        "preco": 65.0,
+        "descricao": "",
+        "imagem": "assets/images/promocao.jpg"
+    },
+    {
+        "id": 45,
+        "nome": "Árabe Baba Frango Especial",
+        "categoria": "Lanches Árabes",
+        "preco": 20.0,
+        "descricao": "Pão Árabe, Pasta de Alho, Repolho, Frango e Batata Palha",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 46,
+        "nome": "Árabe Nacional",
+        "categoria": "Lanches Árabes",
+        "preco": 22.0,
+        "descricao": "Pão Árabe, Frango, Queijo Mussarela, Presunto, Ovo e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 47,
+        "nome": "Árabe X-Calabresa",
+        "categoria": "Lanches Árabes",
+        "preco": 20.0,
+        "descricao": "Pão Árabe, Calabresa, Carne 70g, Queijo Mussarela, Presunto e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 48,
+        "nome": "Árabe Kabab",
+        "categoria": "Lanches Árabes",
+        "preco": 20.0,
+        "descricao": "Pão Árabe, Carne de Cafta, Cebola, Salsa e Tomate",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 49,
+        "nome": "Árabe Sujek",
+        "categoria": "Lanches Árabes",
+        "preco": 20.0,
+        "descricao": "Pão Árabe, Pasta de Alho, Carne de Cafta e Tomate",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 50,
+        "nome": "Árabe Brasileirinho",
+        "categoria": "Lanches Árabes",
+        "preco": 21.0,
+        "descricao": "Pão Árabe, Pasta de Alho, Carne de Cafta, Queijo Mussarela, Presunto e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 51,
+        "nome": "Árabe Chaurma",
+        "categoria": "Lanches Árabes",
+        "preco": 22.0,
+        "descricao": "Pão Árabe, Pasta de Alho, Carne de Churrasco e Tomate",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 52,
+        "nome": "Árabe Beirute",
+        "categoria": "Lanches Árabes",
+        "preco": 24.0,
+        "descricao": "Pão Árabe, Carne de Churrasco, Queijo Mussarela, Ovo, Cheddar e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 53,
+        "nome": "Árabe Queijo com Banana",
+        "categoria": "Lanches Árabes",
+        "preco": 20.0,
+        "descricao": "Pão Árabe, Queijo, Banana e Canela",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 54,
+        "nome": "Árabe Gallis",
+        "categoria": "Lanches Árabes",
+        "preco": 21.0,
+        "descricao": "Pão Árabe, Frango, Queijo Mussarela, Presunto, Cheddar e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 55,
+        "nome": "Árabe Canadense",
+        "categoria": "Lanches Árabes",
+        "preco": 23.0,
+        "descricao": "Pão Árabe, Carne 70g, Frango, Ovo, Catupiry e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 56,
+        "nome": "Árabe Super Americano",
+        "categoria": "Lanches Árabes",
+        "preco": 24.0,
+        "descricao": "Pão Árabe, Pasta de Alho, Carne 70g, Frango, Ovo, Queijo e Presunto",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 57,
+        "nome": "Árabe Mini Cheddar",
+        "categoria": "Lanches Árabes",
+        "preco": 21.0,
+        "descricao": "Pão Árabe, Carne 70g, Ovo, Cheddar, Queijo Mussarela, Presunto e Salada",
+        "imagem": "assets/images/lanche-arabe.jpg"
+    },
+    {
+        "id": 58,
+        "nome": "Misto Duplo",
+        "categoria": "Mistos no Pão de Forma",
+        "preco": 13.0,
+        "descricao": "2 Pães Fatiados, Presunto e Queijo",
+        "imagem": "assets/images/misto.jpg"
+    },
+    {
+        "id": 59,
+        "nome": "Misto Triplo",
+        "categoria": "Mistos no Pão de Forma",
+        "preco": 15.0,
+        "descricao": "3 Pães Fatiados, Presunto e Queijo",
+        "imagem": "assets/images/misto.jpg"
+    },
+    {
+        "id": 60,
+        "nome": "Maionese Adicional",
+        "categoria": "Maionese Caseira",
+        "preco": 1.0,
+        "descricao": "",
+        "imagem": "assets/images/maionese.jpg"
+    },
+    {
+        "id": 61,
+        "nome": "Guaravita",
+        "categoria": "Bebidas",
+        "preco": 3.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 62,
+        "nome": "Kapo",
+        "categoria": "Bebidas",
+        "preco": 4.0,
+        "descricao": "Morango",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 63,
+        "nome": "Guaraviton",
+        "categoria": "Bebidas",
+        "preco": 6.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 64,
+        "nome": "Água",
+        "categoria": "Bebidas",
+        "preco": 3.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 65,
+        "nome": "Água com Gás",
+        "categoria": "Bebidas",
+        "preco": 4.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 66,
+        "nome": "Coca Cola 1,5L",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 67,
+        "nome": "Coca Zero 1,5L",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 68,
+        "nome": "Guaraná 1,5L",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 69,
+        "nome": "Pepsi 1,5L",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 70,
+        "nome": "Fanta Uva 2L",
+        "categoria": "Bebidas",
+        "preco": 13.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 71,
+        "nome": "Mineirinho 2L",
+        "categoria": "Bebidas",
+        "preco": 13.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 72,
+        "nome": "H2O Comum 1,5",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 73,
+        "nome": "H2O Limoneto 1,5",
+        "categoria": "Bebidas",
+        "preco": 11.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 74,
+        "nome": "Coca Cola 2L",
+        "categoria": "Bebidas",
+        "preco": 13.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 75,
+        "nome": "Coca Cola Zero 2L",
+        "categoria": "Bebidas",
+        "preco": 13.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 76,
+        "nome": "Água Tônica",
+        "categoria": "Bebidas",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 77,
+        "nome": "Coca Cola 600ml",
+        "categoria": "Bebidas",
+        "preco": 9.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 78,
+        "nome": "Coca Cola Zero 600ml",
+        "categoria": "Bebidas",
+        "preco": 9.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 79,
+        "nome": "Guaraná 600ml",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 80,
+        "nome": "Guaraná Zero Lata",
+        "categoria": "Bebidas",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 81,
+        "nome": "Pepsi Lata",
+        "categoria": "Bebidas",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 82,
+        "nome": "Fanta Uva Lata",
+        "categoria": "Bebidas",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 83,
+        "nome": "Fanta Laranja Lata",
+        "categoria": "Bebidas",
+        "preco": 7.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 84,
+        "nome": "Pepsi 600ml",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 85,
+        "nome": "Fanta Laranja 600ml",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 86,
+        "nome": "Fanta Uva 600ml",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 87,
+        "nome": "H2O Comum",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 88,
+        "nome": "H2O Limoneto",
+        "categoria": "Bebidas",
+        "preco": 8.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 89,
+        "nome": "Guaraná 1L",
+        "categoria": "Bebidas",
+        "preco": 9.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 90,
+        "nome": "Pepsi 1L",
+        "categoria": "Bebidas",
+        "preco": 9.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 91,
+        "nome": "Água 1,5L",
+        "categoria": "Bebidas",
+        "preco": 5.0,
+        "descricao": "",
+        "imagem": "assets/images/bebida.jpg"
+    },
+    {
+        "id": 92,
+        "nome": "Caribe",
+        "categoria": "Doces",
+        "preco": 4.0,
+        "descricao": "",
+        "imagem": "assets/images/doce.jpg"
+    },
+    {
+        "id": 93,
+        "nome": "Trident Melancia",
+        "categoria": "Doces",
+        "preco": 3.0,
+        "descricao": "",
+        "imagem": "assets/images/trident-melancia.jpg"
+    },
+    {
+        "id": 94,
+        "nome": "Trident Menta",
+        "categoria": "Doces",
+        "preco": 3.0,
+        "descricao": "",
+        "imagem": "assets/images/trident-menta.jpg"
+    }
+]
